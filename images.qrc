@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/back-arrow.png</file>
+        <file>images/copy.png</file>
+        <file>images/redo-arrow.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/speaker.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/cut.png</file>
+        <file>images/newfile.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/pause.png</file>
+        <file>images/text.png</file>
+        <file>images/font_colours/Blue.png</file>
+        <file>images/font_colours/DarkGreen.png</file>
+        <file>images/font_colours/LightGray.png</file>
+        <file>images/font_colours/Orange.png</file>
+        <file>images/font_colours/Purple.png</file>
+        <file>images/font_colours/Red.png</file>
+        <file>images/font_colours/Violet.png</file>
+        <file>images/font_colours/White.png</file>
+        <file>images/font_colours/Yellow.png</file>
+        <file>images/font_colours/Black.png</file>
+        <file>images/font_colours/LightGreen.png</file>
+        <file>images/theme.png</file>
+        <file>images/ms-notepad.png</file>
+        <file>images/font_colours/dark.png</file>
+        <file>images/font_colours/neon.png</file>
+        <file>images/printer.png</file>
+        <file>images/info.png</file>
+    </qresource>
+</RCC>
